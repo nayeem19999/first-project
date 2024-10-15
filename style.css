@@ -1,0 +1,23 @@
+.nayeem{
+    border: 1px solid rgb(217, 23, 23);
+    background-color: aquamarine;
+    margin: 40px;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+}
+span{
+    color: red;
+    border: 3px solid yellow;
+    height: 200px;
+    display: inline-block;
+}
+.ridoy{
+    background-color: lightcoral;
+    visibility: hidden;
+}
+
+.shanto{
+    background-color: bisque;
+}
